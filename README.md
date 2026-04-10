@@ -1,19 +1,25 @@
 #ATIVIDADE SOBRE COMANDOS DE REPETIÇÃO
 
-DICIPLINA: Logica de programação
+DICIPLINA: Logica de Programação
 
 PROFESSORA: Juliana Mafra
 
-Participantes:
+PARTICIPANTES:
 
-Luís Otávio Oliveira Fagundes | Matrícula: 01895637
+Luís Otávio Oliveira Fagundes | 1°C
+Matrícula: 01895637
 
-José Augusto Oliveira Bezerra | Matrícula: 01885578
+José Augusto Oliveira Bezerra | 1°D
+Matrícula: 01885578
 
-Guilherme de Almeida da Silva Borges | Matrícula: 01888871
+Guilherme de Almeida da Silva Borges | 1°D
+Matrícula: 01888871
 
-Marcos Davi Domingos da Silva | Matrícula: 01874151
+Marcos Davi Domingos da Silva | 1°D
+Matrícula: 01874151
 
-Mikael Mayron da Silva | Matrícula: 01874348
+Mikael Mayron da Silva | 1°D
+Matrícula: 01874348
 
-Ewerton Luiz Marinho de Souza | Matricula: 01881834
+Ewerton Luiz Marinho de Souza | 1°D
+Matrícula: 01881834
