@@ -10,7 +10,7 @@ inicio
    STotal <- 0
    TotF3 <- 0
 
-   Para C <- 1 ate 4 passo 1 faca
+   Para C <- 1 ate 20 passo 1 faca
       Escreva("Digite sua idade: ")
       Leia(idade)
 
@@ -33,7 +33,7 @@ inicio
 
       Escreva("Informe seu sexo [F/M]: ")
       Leia(sexo)
-      Escreva("Digite seu salário (apenas números): R$")
+      Escreva("Digite seu salÃ¡rio (apenas nÃºmeros): R$")
       Leia(salario)
 
       STotal <- STotal + salario
@@ -49,8 +49,8 @@ inicio
    media <- STotal/SQnt
    idade50 <- (idade50/SQnt)*100
 
-   Escreval ("Média salarial: R$",media)
-   Escreval ("A maior idade é",maior," e a menor é",menor)
-   Escreval ("Clientes femininos com o salário acima de R$3.000: ",TotF3)
-   Escreval ("Porcentagem de clientes maior de 50 é",idade50,"%")
+   Escreval ("MÃ©dia salarial: R$",media)
+   Escreval ("A maior idade Ã©",maior," e a menor Ã©",menor)
+   Escreval ("Clientes femininos com o salÃ¡rio acima de R$3.000: ",TotF3)
+   Escreval ("Porcentagem de clientes maior de 50 Ã©",idade50,"%")
 fimalgoritmo
